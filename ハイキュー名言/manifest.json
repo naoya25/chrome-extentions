@@ -1,0 +1,10 @@
+{
+  "name": "ハイキュー名言",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "ハイキューの心に刺さる名言をお届けします",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "permissions": []
+}
